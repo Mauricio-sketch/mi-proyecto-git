@@ -1,0 +1,3 @@
+1. cuando usas git add solo se esta subiendo a la consola y con git commit ya lo subes a la nube creo
+2.trabajar con un pequeño sub conjunto de todo tu repositorio
+3.que no solo se esta guardando en tu pc sino tambien en la nube
